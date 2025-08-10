@@ -227,7 +227,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/1JKsL3WV/MEF-AAP-027-BAP-PART-II-2025-07-30-14-00-20.png',
+            image: 'https://i.ibb.co/xPngHjF/MEF-AAP-027-BAP-PART-II-2025-08-10-10-35-31.png',
             description: '',
             location: {
                 center: [28.743,41.256],
